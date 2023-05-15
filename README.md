@@ -1,4 +1,4 @@
-# Parkot | API Parking Lot 📚📖
+# Parkot | API Parking Lot 🚗
 
 Projeto de uma API Rest para controle de estacionamento.
 
